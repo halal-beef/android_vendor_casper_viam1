@@ -1,0 +1,1 @@
+$(call inherit-product, vendor/casper/viam1/viam1-vendor-blobs.mk)
